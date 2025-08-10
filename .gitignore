@@ -1,0 +1,17 @@
+# Logs and temp files
+*.log
+*.tmp
+.env
+
+# Docker volumes
+volumes/
+data/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
